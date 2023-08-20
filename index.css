@@ -11,7 +11,42 @@ body{
 header img{
     width:40%;
 }
-
+.fa-instagram{
+    color: rgb(255, 0, 136);
+    text-shadow: none;
+    padding: 10px;
+}
+.fa-github{
+    color: rgba(95, 206, 16, 0.9);
+    text-shadow: none;
+    padding: 10px;
+}
+.fa-linkedin{
+    color: rgb(0, 183, 255);
+    text-shadow: none;
+    padding: 10px;
+}
+.fa-instagram:hover{
+    color: rgb(255, 0, 136);
+    text-shadow: none;
+    font-size: 30px;
+    transition: 0.4s;
+    animation: backwards 0.4s;
+}
+.fa-github:hover{
+    color: rgba(95, 206, 16, 0.9);
+    text-shadow: none;
+    font-size: 30px;
+    transition: 0.4s;
+    animation: backwards 0.4s;
+}
+.fa-linkedin:hover{
+    color: rgb(0, 183, 255);
+    text-shadow: none;
+    font-size: 30px;
+    transition: 0.4s;
+    animation: backwards 0.4s;
+}
 label{
     font-size: x-large;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
