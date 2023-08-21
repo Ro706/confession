@@ -68,7 +68,7 @@ textarea{
     border: 2px solid black;
     width:55%;
 }
-input[type=submit]{
+button{
     font-size: x-large;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-shadow: 1px 1px 1px black;
@@ -80,7 +80,7 @@ input[type=submit]{
     border: 2px solid black;
     width:40%;
 }
-input[type=submit]:hover{
+button:hover{
     background-color: rgb(4, 87, 254);
     color: rgb(255, 255, 255);
 }
