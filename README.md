@@ -12,10 +12,6 @@ Ro706 Confessions is a platform for anonymous confessions. Users can submit thei
 * **Simple interface:** The web interface is easy to use and navigate.
 * **Responsive design:** The website is responsive and can be accessed from any device.
 
-**Technical Stack**
-
-* (List the programming languages, frameworks, and libraries used in the project here. If you're unsure, you can try running `cat package.json` or checking the project files for clues.)
-
 **Installation**
 
 (If the project requires installation, provide instructions on how to set it up locally here. Include any dependencies that need to be installed.)
@@ -26,10 +22,6 @@ Clone the repository:
 git clone https://github.com/Ro706/confession.git
 ```
 
-
-**Usage**
-
-(If there are specific instructions on how to use the project, include them here.)
 
 **Contributing**
 
