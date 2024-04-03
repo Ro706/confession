@@ -42,3 +42,7 @@ This project is licensed under the (Include the license type here, e.g. MIT Lice
 **Disclaimer**
 
 The Ro706 Confessions project is intended to be a platform for free speech. However, we reserve the right to remove any confessions that we deem to be hateful, violent, or illegal.
+
+**images**
+![Screenshot_4-4-2024_1172_ro706 github io](https://github.com/Ro706/confession/assets/60247178/649a722b-00c1-438e-b166-78c487cda7d8)
+
