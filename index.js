@@ -3,7 +3,7 @@ const messages = document.getElementById("messages"),
       submit = document.getElementById("submit");
 function send(){
         Email.send({
-            SecureToken : "b5b5e45b-2504-488f-be39-162bd933d994",
+            SecureToken : "your token",
             To : 'symbinagpur@gmail.com',
             From : "fridayro706@gmail.com",
             Subject : "confession",
