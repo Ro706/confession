@@ -4,8 +4,8 @@ const messages = document.getElementById("messages"),
 function send(){
         Email.send({
             SecureToken : "your token",
-            To : 'symbinagpur@gmail.com',
-            From : "fridayro706@gmail.com",
+            To : '',
+            From : "",
             Subject : "confession",
             Body : text.value
         }).then(
